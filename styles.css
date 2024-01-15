@@ -253,10 +253,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-/* dropdown */
-.dropdown-container {
-    position: relative;
-}
+
 
 .app__section-task-header__ul {
     display: none;
